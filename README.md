@@ -8,8 +8,6 @@ Most of my work focuses on **Laravel**, **Vue.js**, and **Tailwind CSS**.
 ### 🌱 What I'm working on
 - Building modular platforms (like **DocraTech**, a medical website solution).  
 - Experimenting with SEO-friendly development practices.  
-- Improving my English to work better with international clients.  
-
 ---
 
 ### 🛠️ Tools & Tech
