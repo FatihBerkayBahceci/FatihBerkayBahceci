@@ -1,19 +1,10 @@
-# 👋 Hi, I'm Berkay  
+👋 Berkay
+Founder @ Pera.works
 
-I'm a software developer who enjoys building clean and functional web applications.  
-Most of my work focuses on **Laravel**, **Vue.js**, and **Tailwind CSS**.  
+Building SaaS, Mobile Apps, and AI Agents. I don't stick to a stack; I choose the best tools for the problem.
 
----
+Current Focus: React Native, Next.js, and Autonomous AI.
 
-### 🌱 What I'm working on
-- Building modular platforms (like **DocraTech**, a medical website solution).  
-- Experimenting with SEO-friendly development practices.  
----
+The Toolbox: TypeScript, React, Laravel, Node.js, OpenAI.
 
-### 🛠️ Tools & Tech
-- **Backend**: Laravel, PHP, MySQL  
-- **Frontend**: Vue.js, Nuxt, Tailwind CSS  
-- **Other**: Git, Figma, SEO, Structured Data 
----
-
-*"I like simple solutions for complex problems."*
+Philosophy: "Simple solutions for complex problems."
