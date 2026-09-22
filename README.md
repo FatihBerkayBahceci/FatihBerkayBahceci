@@ -1,6 +1,6 @@
 👋 Berkay
 
 
-Founder @ Pera.works
+Developer @seoart.com
 
 Building SaaS, Mobile Apps, and AI Agents. I don't stick to a stack; I choose the best tools for the problem.
